@@ -7,7 +7,7 @@ This project is for study and personal use only. We hold no responsibilty of any
 ## Installation
 
 ```sh
-$ go get github.com/hieven/go-instagram
+$ go get github.com/ClooseDev/go-instagram
 ```
 
 ## Documentation
