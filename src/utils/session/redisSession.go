@@ -6,7 +6,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/hieven/go-instagram/src/config"
+	"github.com/ClooseDev/go-instagram/src/config"
 	"gopkg.in/redis.v5"
 )
 

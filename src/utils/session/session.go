@@ -3,7 +3,7 @@ package session
 import (
 	"net/url"
 
-	"github.com/hieven/go-instagram/src/config"
+	"github.com/ClooseDev/go-instagram/src/config"
 )
 
 const (

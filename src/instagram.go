@@ -5,13 +5,13 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/hieven/go-instagram/src/config"
-	"github.com/hieven/go-instagram/src/constants"
-	"github.com/hieven/go-instagram/src/protos"
-	"github.com/hieven/go-instagram/src/utils/auth"
-	"github.com/hieven/go-instagram/src/utils/request"
-	"github.com/hieven/go-instagram/src/utils/session"
-	"github.com/hieven/go-instagram/src/utils/text"
+	"github.com/ClooseDev/go-instagram/src/config"
+	"github.com/ClooseDev/go-instagram/src/constants"
+	"github.com/ClooseDev/go-instagram/src/protos"
+	"github.com/ClooseDev/go-instagram/src/utils/auth"
+	"github.com/ClooseDev/go-instagram/src/utils/request"
+	"github.com/ClooseDev/go-instagram/src/utils/session"
+	"github.com/ClooseDev/go-instagram/src/utils/text"
 )
 
 type instagram struct {
